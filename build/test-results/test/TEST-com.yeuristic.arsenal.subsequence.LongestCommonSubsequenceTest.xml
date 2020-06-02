@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.yeuristic.arsenal.subsequence.LongestCommonSubsequenceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-06-02T11:11:50" hostname="admins-MacBook-Pro.local" time="0.019">
+  <properties/>
+  <testcase name="happy path" classname="com.yeuristic.arsenal.subsequence.LongestCommonSubsequenceTest" time="0.013"/>
+  <testcase name="empty" classname="com.yeuristic.arsenal.subsequence.LongestCommonSubsequenceTest" time="0.005"/>
+  <testcase name="first empty" classname="com.yeuristic.arsenal.subsequence.LongestCommonSubsequenceTest" time="0.0"/>
+  <testcase name="second empty" classname="com.yeuristic.arsenal.subsequence.LongestCommonSubsequenceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
